@@ -1,5 +1,5 @@
+a = 5
+b = 9
 
+print(a+b)
 
-c = 55
-
-print(c*5)
